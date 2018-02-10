@@ -1,0 +1,25 @@
+.hoho{
+  text-align: center;
+  text-decoration:underline;
+  color: #525252
+}
+
+.jambo{
+  text-align: center;
+}
+
+.hey{
+  text-align: center;
+}
+.jumbotron{
+  background-color: green;
+  color: white
+}
+.call{
+  background-color: pink;
+  color: white
+}
+
+body{
+  background: url("/home/wanjiru/Desktop/Moringa2/img/Maina.jpg")
+}
