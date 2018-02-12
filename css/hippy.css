@@ -1,0 +1,35 @@
+
+h1{
+  font-family: caevet;
+  color: black;
+  text-align: center;
+
+}
+
+h2{
+  color: gray;
+  text-align: center;
+  position: 1000px;
+}
+
+h3{
+  text-align: center;
+}
+
+.container-fluid{
+padding: 0px;
+}
+
+.parallax-window1{
+  background: transparent;
+  min-height: 800px
+}
+.parallax-window{
+  background: transparent;
+  min-height: 400px
+}
+
+.window-wrapper{
+  background: white;
+  height: 50px
+}
